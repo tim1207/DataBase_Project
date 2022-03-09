@@ -51,5 +51,5 @@
  1. 若是不想運行後端，可至前端`\src\services\service.config.js`將第二行註解移除並將第三行註解掉，這個後端我們將持續運行到`1/28`
  2. 若是想直接看成果可至 https://prj.inf.saihs.edu.tw/ 伺服器將會持續運行到`1/28`
 
-## [Frontend GitHub](https://github.com/shiow620412/DatabaseSystemProject-Frontend)  
-## [Backend GitHub](https://github.com/shiow620412/DatabaseSystemProject-Backend/settings)
+## [Frontend GitHub](https://github.com/tim1207/DatabaseSystemProject-Frontend)  
+## [Backend GitHub](https://github.com/tim1207/DatabaseSystemProject-Backend)
